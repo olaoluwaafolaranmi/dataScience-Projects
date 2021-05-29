@@ -2,6 +2,11 @@ import yfinance as yf
 import streamlit as st
 import pandas as pd
 
+"""
+a mini datascience project that uses the stream lit library to create 
+a web application for google stock prices. the stock prices are gotten using
+the yf library.
+"""
 st.write("""
 # Simple Stock Price App
 
